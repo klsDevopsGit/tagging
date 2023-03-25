@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 2nd line added in file2.txt
 3rd line added
+=======
+1st line in f2 file2
+>>>>>>> parent of 2add294 (c2 of f2.txt)
